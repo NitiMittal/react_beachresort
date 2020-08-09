@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import "./App.css"
-import "bootstrap/dist/css/bootstrap.min.css"
+
 import Home from './pages/Home';
 import Rooms from './pages/Rooms';
 import SingleRoom from './pages/SingleRoom';
